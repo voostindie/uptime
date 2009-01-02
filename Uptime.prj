@@ -1,0 +1,37 @@
+[Project ID]
+Signature=UE Proj: v.1
+
+[Project Information]
+Project Directory=F:\C++\UPTIME\
+Use Relative Directory=1
+
+[Open Files]
+Open File0=F:\C++\UPTIME\Uptime.h
+Active File Display Mode=3
+Open File Pos0=1892
+Open File Line0=0
+Open File Window Pos0=0,1,0,0,-4,-23,22,22,565,273
+Open File1=F:\C++\UPTIME\Uptime.cpp
+Open File Pos1=259
+Open File Line1=368
+Open File Window Pos1=0,1,0,0,-4,-23,44,44,591,299
+Open File2=F:\C++\UPTIME\Makefile
+Open File Pos2=143
+Open File Line2=0
+Open File Window Pos2=0,1,0,0,-4,-23,66,66,613,321
+Open File3=F:\C++\UPTIME\main.cpp
+Open File Pos3=1524
+Open File Line3=1434
+Active File Index=3
+Open File Window Pos3=2,3,0,0,-4,-23,88,88,635,343
+Open File4=
+
+[File View]
+Current Select=Project Files\
+
+[Files]
+0=main.cpp
+1=Makefile
+2=Uptime.cpp
+3=Uptime.h
+
